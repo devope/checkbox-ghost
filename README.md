@@ -5,7 +5,7 @@ Very useful for multiple checkboxes when using PHP.
 
 ## Usecase
 
-### index.html
+#### index.html
 ```html
 <div class='checkbox'>
   <input type="hidden" class="checkbox-ghost" name="isVisible[]" checked>
@@ -21,12 +21,12 @@ Very useful for multiple checkboxes when using PHP.
 </div>
 ```
 
-### index.php
+#### index.php
 ```php
 var_dump($_POST['isVisible']);
 ```
 
-### index.php
+#### =>
 ```php
 array(3) {
   [0]=>
