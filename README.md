@@ -28,7 +28,7 @@ checkboxGhost('.checkbox');
 var_dump($_POST['isVisible']);
 ```
 
-#### => (with checkbox-ghost)
+#### => with ghost
 ```php
 array(3) {
   [0]=>
@@ -40,7 +40,7 @@ array(3) {
 }
 ```
 
-#### => (without checkbox-ghost)
+#### => without
 ```php
 array(2) {
   [0]=>
