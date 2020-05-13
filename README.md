@@ -1,5 +1,3 @@
-# checkbox-ghost
-
 Adding value '0' to empty checkbox, and '1' for checked.
 Very useful for multiple checkboxes when using PHP.
 
