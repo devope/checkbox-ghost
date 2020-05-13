@@ -28,15 +28,15 @@ array(2) {
 
 #### index.html
 ```html
-<div class='checkbox'>
+<div class="checkbox">
   <input type="hidden" class="checkbox-ghost" name="isVisible[]" checked>
   <input type="checkbox" class="checkbox-entity">
 </div>
-<div class='checkbox'>
+<div class="checkbox">
   <input type="hidden" class="checkbox-ghost" name="isVisible[]">
   <input type="checkbox" class="checkbox-entity">
 </div>
-<div class='checkbox'>
+<div class="checkbox">
   <input type="hidden" class="checkbox-ghost" name="isVisible[]" checked>
   <input type="checkbox" class="checkbox-entity">
 </div>
