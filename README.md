@@ -13,7 +13,9 @@ Very useful for multiple checkboxes when using PHP.
 #### index.php
 ```php
 var_dump($_POST['isVisible']);
+```
 
+```php
 array(2) {
   [0]=>
   string(1) "1"
@@ -48,7 +50,9 @@ checkbox_ghost('.checkbox');
 #### index.php
 ```php
 var_dump($_POST['isVisible']);
+```
 
+```php
 array(3) {
   [0]=>
   string(1) "1"
