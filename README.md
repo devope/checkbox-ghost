@@ -1,5 +1,5 @@
-Adding value '0' to empty checkbox, and '1' for checked.
-Very useful for multiple checkboxes when using PHP.
+Set 0 value to unchecked checkbox, and 1 for checked.
+Especially useful for multiple checkboxes when using PHP.
 
 # Before
 
