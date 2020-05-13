@@ -3,7 +3,9 @@
 Adding value '0' to empty checkbox, and '1' for checked.
 Very useful for multiple checkboxes when using PHP.
 
-### Usecase
+## Usecase
+
+# index.html
 ```html
 <div class='checkbox'>
   <input type="hidden" class="checkbox-ghost" name="isVisible[]" checked>
@@ -19,10 +21,12 @@ Very useful for multiple checkboxes when using PHP.
 </div>
 ```
 
+# index.php
 ```php
 var_dump($_POST['isVisible']);
 ```
 
+# index.php
 ```php
 array(3) {
   [0]=>
