@@ -57,7 +57,7 @@ array(3) {
   [0]=>
   string(1) "1"
   [1]=>
-  string(0) ""
+  string(0) "0"
   [2]=>
   string(0) "1"
 }
