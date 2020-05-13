@@ -19,7 +19,7 @@ Very useful for multiple checkboxes when using PHP.
 </div>
 
 <script>
-checkboxGhost('.checkbox');
+checkbox_ghost('.checkbox');
 </script>
 ```
 
