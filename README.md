@@ -40,7 +40,7 @@ array(3) {
 
 #### => (without checkbox-ghost)
 ```php
-array(3) {
+array(2) {
   [0]=>
   string(1) "1"
   [1]=>
