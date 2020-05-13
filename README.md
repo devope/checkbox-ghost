@@ -42,7 +42,7 @@ array(2) {
 </div>
 
 <script>
-cheghost('.checkbox');
+cheghost('.cheghost');
 </script>
 
 ```
