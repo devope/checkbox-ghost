@@ -1,6 +1,6 @@
 // wrapper (string): jquery selector
 
-function checkboxGhost(wrapper)
+function cheghost(wrapper)
 {
 	let ghosts = document.getElementsByClassName('checkbox-ghost');
 	for (var i = 0; i < ghosts.length; i++) {
