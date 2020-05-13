@@ -26,7 +26,7 @@ Very useful for multiple checkboxes when using PHP.
 var_dump($_POST['isVisible']);
 ```
 
-#### =>
+#### => (with checkbox-ghost)
 ```php
 array(3) {
   [0]=>
@@ -34,6 +34,16 @@ array(3) {
   [1]=>
   string(0) ""
   [2]=>
+  string(0) "1"
+}
+```
+
+#### => (without checkbox-ghost)
+```php
+array(3) {
+  [0]=>
+  string(1) "1"
+  [1]=>
   string(0) "1"
 }
 ```
