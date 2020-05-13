@@ -5,9 +5,9 @@ Very useful for multiple checkboxes when using PHP.
 
 ### index.html
 ```html
-<input name="isVisible[]" class="checkbox-entity" type="checkbox" checked>
-<input name="isVisible[]" class="checkbox-entity" type="checkbox">
-<input name="isVisible[]" class="checkbox-entity" type="checkbox" checked>
+<input name="isVisible[]" type="checkbox" checked>
+<input name="isVisible[]" type="checkbox">
+<input name="isVisible[]" type="checkbox" checked>
 ```
 
 #### index.php
