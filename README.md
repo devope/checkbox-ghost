@@ -19,6 +19,10 @@ Very useful for multiple checkboxes when using PHP.
   <input type="hidden" class="checkbox-ghost" name="isVisible[]" checked>
   <input type="checkbox" class="checkbox-entity">
 </div>
+
+<script>
+checkboxGhost('.checkbox');
+</script>
 ```
 
 #### index.php
