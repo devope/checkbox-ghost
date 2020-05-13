@@ -40,11 +40,16 @@ array(2) {
   <input type="hidden" class="checkbox-ghost" name="isVisible[]" checked>
   <input type="checkbox" class="checkbox-entity">
 </div>
+```
 
+```html
+<script src="cheghost/index.js"></script>
+```
+
+```html
 <script>
 cheghost('.cheghost');
 </script>
-
 ```
 
 #### index.php
