@@ -29,16 +29,16 @@ array(2) {
 #### index.html
 ```html
 <div class="cheghost">
-  <input type="hidden" class="checkbox-ghost" name="isVisible[]" checked>
-  <input type="checkbox" class="checkbox-entity">
+  <input type="hidden" class="checkbox-ghost" name="isVisible[]">
+  <input type="checkbox" class="checkbox-entity" checked>
 </div>
 <div class="cheghost">
   <input type="hidden" class="checkbox-ghost" name="isVisible[]">
   <input type="checkbox" class="checkbox-entity">
 </div>
 <div class="cheghost">
-  <input type="hidden" class="checkbox-ghost" name="isVisible[]" checked>
-  <input type="checkbox" class="checkbox-entity">
+  <input type="hidden" class="checkbox-ghost" name="isVisible[]">
+  <input type="checkbox" class="checkbox-entity" checked>
 </div>
 ```
 
