@@ -1,6 +1,6 @@
 {
   "name": "cheghost",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Helps to deal with values of multiple checkboxes",
   "module": "src/index.js",
   "scripts": {
