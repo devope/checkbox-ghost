@@ -1,0 +1,29 @@
+{
+  "name": "cheghost",
+  "version": "2.0.0",
+  "description": "Helps to deal with values of multiple checkboxes",
+  "main": "dist/cheghost.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "checkboxes",
+    "helper"
+  ],
+  "homepage": "https://github.com/devope/cheghost",
+  "bugs": {
+    "url": "https://github.com/devope/cheghost/issues",
+    "email": "mail@devope.ru"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devope/cheghost.git"
+  },
+  "author": "Kirill Devope <mail@devope.ru>",
+  "devDependencies": {
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  },
+  "license": "MIT",
+  "private": false
+}
