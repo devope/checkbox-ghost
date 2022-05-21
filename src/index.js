@@ -92,7 +92,7 @@ function set(checkbox) {
     hidden.value = checkbox.checked ? "1" : "0"
 }
 
-export function cheghost(selectorToWrap) {
+export default function cheghost(selectorToWrap) {
     wrap(selectorToWrap);
     values();
 }
