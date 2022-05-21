@@ -20,7 +20,10 @@ function wrap(selectorToWrap) {
 
         // Get label
         let labelId = checkbox.id;
-        let label = document.querySelector(`[for=${labelId}]`);
+        let label;
+        if (labelId) {
+            label = document.querySelector(`[for=${labelId}]`);
+        }
 
         // Create wrapper
         let wrapper = document.createElement('div');
@@ -89,7 +92,7 @@ function set(checkbox) {
     hidden.value = checkbox.checked ? "1" : "0"
 }
 
-export default function cheghost(selectorToWrap) {
+export function cheghost(selectorToWrap) {
     wrap(selectorToWrap);
     values();
 }
